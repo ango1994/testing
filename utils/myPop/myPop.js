@@ -13,3 +13,5 @@ export function myPop() {
     // arr = Object.values(pepe);
     // return element;
 }
+
+let prueba = 3;
